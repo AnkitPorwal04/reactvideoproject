@@ -1,3 +1,14 @@
+This project is live hosted on:- 
+https://react-video-app-navy.vercel.app/
+
+demo:- 
+
+
+
+https://user-images.githubusercontent.com/96345105/231658690-53b90a80-d84e-4a63-a815-8aaf0fb87a18.mp4
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
